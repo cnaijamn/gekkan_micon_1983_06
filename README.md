@@ -1,6 +1,7 @@
 # 月刊マイコン 1983年6月号 「物理学入門 PC-8801(N88-BASIC)」
 
-BASICのソースをJavaScriptに簡易移植。
+BASICコードをJavaScriptコードに簡易移植をしました。  
+https://cnaijamn.github.io/gekkan_micon_1983_06/
 
 月刊マイコン 1983年6月号 P.451
 - 物理学入門 PC-8801(N88-BASIC)  
@@ -11,6 +12,3 @@ BASICのソースをJavaScriptに簡易移植。
   - P.455 《リスト3》 立体オリジン座
   - P.456 《リスト4》 立体太陽系
   - P.456 《リスト5》 立体銀河
-
-BASICコードをJavaScriptコードに簡易な移植をしました。  
-https://cnaijamn.github.io/gekkan_micon_1983_06/
